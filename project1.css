@@ -1,0 +1,41 @@
+body{
+	background-image: url(backround.jpg);
+    height: 100vh ;
+    background-size: cover ;
+    background-position: center ; 
+
+}
+#title{
+	 font-weight: bold;
+	 font-weight: bold;
+      color: #fff;
+      font-size: 52px;
+    text-align: left;
+    cursor: context-menu;
+
+}
+#welcome{
+	text-align: center;
+ font-size: 50px;
+ font-weight: bold;
+ color: #fff;
+ cursor: context-menu;
+ top: 200px;
+ left:300px;
+ position: absolute;
+}
+#next {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  left: 140px;
+    position: absolute;
+    top: 200px;
+}
+}
