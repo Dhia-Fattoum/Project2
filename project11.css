@@ -1,0 +1,49 @@
+body{
+	background-image: url('C:/Users/PC/Desktop/MyProject-solo/Project2/ddd.GIF');
+    height:100vh ;
+    size: 2vh;
+    background-size: cover ;
+    background-position: center ; 
+}
+#next {
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 35px 72px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  position: absolute;
+  left: 800px;
+    top: 700px;
+  border: 4px solid black;
+}
+
+#title{
+	 font-weight: bold;
+	 font-weight: bold;
+      color: #fff;
+      font-size: 52px;
+    top: 250px;
+ left:600px;
+ position: absolute;
+    cursor: context-menu;
+
+}
+#welcome{
+	text-align: center;
+ font-size: 50px;
+ font-weight: bold;
+ color: #f55a29;;
+ cursor: context-menu;
+ top: 400px;
+ left:400px;
+ position: absolute;
+}
+
+#tof2{
+	float: right ;
+	width: 300px
+}
