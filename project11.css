@@ -19,18 +19,19 @@ body{
   left: 800px;
     top: 700px;
   border: 4px solid black;
+
 }
 
 #title{
 	 font-weight: bold;
 	 font-weight: bold;
-      color: #fff;
+      color: black;
       font-size: 52px;
     top: 250px;
  left:600px;
  position: absolute;
     cursor: context-menu;
-
+  
 }
 #welcome{
 	text-align: center;
@@ -45,5 +46,38 @@ body{
 
 #tof2{
 	float: right ;
-	width: 300px
+	width: 300px;
+  border-radius: 30%
+}
+#uname{
+top: 600px;
+ left:600px;
+ position: absolute;
+ border-style: solid;
+
+}
+#uname1{
+top: 600px;
+ left:700px;
+ position: absolute
+
+}
+#uname2{
+top: 600px;
+ left:900px;
+ position: absolute
+
+}
+#uname3{
+top: 600px;
+ left:1000px;
+ position: absolute
+
+}
+#psw{
+  top: 600px;
+ left:900px;
+ position: absolute;
+ border-style: solid;
+
 }
